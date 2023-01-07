@@ -31,7 +31,7 @@ class _FirstPageFragmentState extends State<FirstPageFragment> {
             Container(
                 margin: const EdgeInsets.only(top: 50),
                 child: const Text(
-                  'Username: usrn_thean',
+                  'Username: user_thaisan',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 32,
@@ -43,7 +43,7 @@ class _FirstPageFragmentState extends State<FirstPageFragment> {
             Container(
                 margin: const EdgeInsets.only(top: 10),
                 child: const Text(
-                  'Password: usrp@12345',
+                  'Password: thaisan@12345',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 32,
