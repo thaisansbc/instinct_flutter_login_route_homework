@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:instict_flutter_login/views/dashboard_page.dart';
+import 'package:instict_flutter_login/views/gridview_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,8 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: const DashboardPage(),
+      // home: const DashboardPage(),
+      home: const GridViewPage(),
     );
   }
 }
